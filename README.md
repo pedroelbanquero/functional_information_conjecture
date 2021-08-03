@@ -89,7 +89,7 @@ When we would to encode the function (f n =n+1) from the information of a datase
 
 When the time or space is geometric we can predict the result with 100 % accuracy, making posible encoding system based on the function information int the dataset.
 
-As V.Nos and E. Satntos demontrates with Probnet (Geometric Extrapolation of Integer Sequences with error predictin). Around 1/3 of the know functions from oeis.org database (the known functions) .
+As V.Nos and E. Satntos demontrates with Probnet. Around 1/3 of the know functions from oeis.org database (the known functions) .
 
 The probability of solve just with a funcional encoding a dataset is 1 / 3, this means what around 1 / 3 of the known universe is perfectlly probnet, you can define the funcion with 3 fraction parameters, the starting point, and the numer of function time, or function space, defined by the math expresion function.
 
@@ -114,11 +114,27 @@ is better than :
 [1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181,6765,10946,17711,28657,46368,75025,121393,196418,317811,514229,832040,1346269,2178309,3524578,5702887,9227465,14930352,24157817,39088169,63245986,102334155,165580141,267914296,433494437,701408733,1134903170,1836311903,2971215073,4807526976,7778742049,12586269025,20365011074,32951280099,53316291173,86267571272,139583862445,225851433717,365435296162,591286729879,956722026041,1548008755920,2504730781961,4052739537881,6557470319842,10610209857723,17167680177565,27777890035288,44945570212853,72723460248141,117669030460994,190392490709135,308061521170129,498454011879264,806515533049393,1304969544928657,2111485077978050,3416454622906707,5527939700884757,8944394323791464,14472334024676222,23416728348467688,37889062373143912,61305790721611600,99194853094755520,160500643816367136,259695496911122656,420196140727489792,679891637638612480,1100087778366102272,1779979416004714752,2880067194370817024,4660046610375531520,7540113804746347520,12200160415121876992,19740274219868221440,31940434634990092288,51680708854858301440,83621143489848360960,135301852344706596864,218922995834554843136,354224848179261276160,573147844013815824384,927372692193076576256,1500520536206891548672,2427893228399967076352,3928413764606857052160]
 
 ```
+## Conclusions
 
+### ⋄ H ( f n (a b c d) ) <  H (N) 
+
+- Es posible que la entropia de la codificacion funcional sea mucho menor que la entropia de la informacion obervable. Desde el punto de vista de la teoria de informacion tradicional. o Shannon's entropy, in an observable encoding .
+
+- At least to describe around the 30 % of the know function universe, and a big percentage of the geometric uncertain can be defined by a probnet funcion, and can be encoded with 5 parameters.
+
+- Encode saving number of executions of a function and 4 elements of dataset is the minimum information needed in geometric extrapolation with error prediction.
+
+- The information theory based on the observability of the data and on the faithful reproduction of the same does not contemplate the information, geometric, polynomial or arithmetic where the time of each element of the dataset is constant 
+
+- Two kind of encoding types are posible :
+
+  - Encoding based on observable data.
+  - Encoding based on functions and time.
+   
 
 ## 2D and 3D spaces
 
-
+If the pure information in a functional enconding just can have 1 dimension in the information vector, a way 
 
 
 
