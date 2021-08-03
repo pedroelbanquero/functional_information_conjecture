@@ -139,7 +139,7 @@ Next Out Sequence:
 
 Then :
 
-### ⋄ H ( fnos n (a b c d) ) <  H (N) 
+### ⋄ H (t, (a b c d) ) <  H (N) 
 
 
 - It is possible that the entropy of the functional coding is much smaller than the entropy of the observable information. From the point of view of traditional information theory. o Shannon's entropy, in an observable encoding  .
