@@ -116,7 +116,7 @@ is better than :
 ```
 ## Conclusions
 
-### ⋄ H ( f n (a b c d) ) <  H (N) 
+Where :
 
 sequence = [a,b,c,d]
 
@@ -130,9 +130,13 @@ m = last sequence
 
 n = last $ last sequence 
 
--- Next Out Sequence
+Next Out Sequence:
 
 ### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
+
+Then :
+
+### ⋄ H ( f n (a b c d) ) <  H (N) 
 
 
 - It is possible that the entropy of the functional coding is much smaller than the entropy of the observable information. From the point of view of traditional information theory. o Shannon's entropy, in an observable encoding  .
