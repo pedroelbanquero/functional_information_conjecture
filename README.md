@@ -118,6 +118,23 @@ is better than :
 
 ### ⋄ H ( f n (a b c d) ) <  H (N) 
 
+sequence = [a,b,c,d]
+
+f1(x,y) =  (x) / y
+
+d1 = f1 (c,b)
+
+d2 = f1 (d,c)
+
+m = last sequence
+
+n = last $ last sequence 
+
+-- Next Out Sequence
+
+### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
+
+
 - Es posible que la entropia de la codificacion funcional sea mucho menor que la entropia de la informacion obervable. Desde el punto de vista de la teoria de informacion tradicional. o Shannon's entropy, in an observable encoding .
 
 - At least to describe around the 30 % of the know function universe, and a big percentage of the geometric uncertain can be defined by a probnet funcion, and can be encoded with 5 parameters.
