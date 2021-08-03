@@ -129,13 +129,17 @@ is better than :
 - Two kind of encoding types are posible :
 
   - Encoding based on observable data.
+  
   - Encoding based on functions and time.
    
 
 ## 2D and 3D spaces
 
-If the pure information in a functional enconding just can have 1 dimension in the information vector .
+In the pure information in a functional enconding just can have 1 dimension in the information vector .
 
+In a 1 dimesion information vector the order is the second dimension.
+
+In a 1 information vector where the order is the second dimension, the contraction of the time/space is the third dimension
 
 
 
