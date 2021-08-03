@@ -120,7 +120,10 @@ Where :
 
 sequence = [a,b,c,d]
 
+And:
+
 f1(x,y) =  (x) / y
+
 
 d1 = f1 (c,b)
 
