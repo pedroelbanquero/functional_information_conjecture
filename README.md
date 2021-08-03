@@ -101,9 +101,11 @@ with 3 consecutive fractions of the present, the starting time, and numer of loo
 
 for example to encode 100 numbers of fibonachi secuence , we can encode :
 
+```
 100,1,2,3,5
+```
 
-who is better than :
+is better than :
 
 ```Haskell
 
