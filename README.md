@@ -135,7 +135,7 @@ n = last $ last sequence
 ### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
 
 
-- Es posible que la entropia de la codificacion funcional sea mucho menor que la entropia de la informacion obervable. Desde el punto de vista de la teoria de informacion tradicional. o Shannon's entropy, in an observable encoding .
+- It is possible that the entropy of the functional coding is much smaller than the entropy of the observable information. From the point of view of traditional information theory. o Shannon's entropy, in an observable encoding  .
 
 - At least to describe around the 30 % of the know function universe, and a big percentage of the geometric uncertain can be defined by a probnet funcion, and can be encoded with 5 parameters.
 
