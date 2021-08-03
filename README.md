@@ -134,7 +134,7 @@ is better than :
 
 ## 2D and 3D spaces
 
-If the pure information in a functional enconding just can have 1 dimension in the information vector, a way 
+If the pure information in a functional enconding just can have 1 dimension in the information vector .
 
 
 
