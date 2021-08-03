@@ -122,7 +122,7 @@ is better than :
 
 - At least to describe around the 30 % of the know function universe, and a big percentage of the geometric uncertain can be defined by a probnet funcion, and can be encoded with 5 parameters.
 
-- Encode saving number of executions of a function and 4 elements of dataset is the minimum information needed in geometric extrapolation with error prediction.
+- Encode saving number of executions of a function and 4 elements of dataset is the minimum information needed in geometric extrapolation with error prediction, to calculate pasts and futures n times.
 
 - The information theory based on the observability of the data and on the faithful reproduction of the same does not contemplate the information, geometric, polynomial or arithmetic where the time of each element of the dataset is constant 
 
