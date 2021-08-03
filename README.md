@@ -80,7 +80,7 @@ If the time space between each element of the data set is the same, we can assum
 
 In 2021 was published in wikipedia and haskell official repositories and operating system NIX, the Probnet.
 
-Probnet description and code source can be found here. https://hackage.haskell.org/package/Probnet
+Probnet description and code source can be found here. https://hackage.haskell.org/package/Probnet https://en.wikipedia.org/wiki/Extrapolation
 
 
 ## The role of time in functional encoding
