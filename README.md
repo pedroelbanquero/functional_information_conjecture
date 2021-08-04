@@ -32,9 +32,9 @@ Then any semiprime can be represated as a sum of 2 primes and the goldbach permu
 
 If we take as a example 377, 13+29 = 42 in consecuence we can encode asume 377 = (42,2) , the sum of factors of the product and the glodbach permutation order, in this case 12 29 is the thir glodbach combination who can get 42 as a result. (sum of 2 primes) .
 
-As we can see this information transoformation can reduce the number of bits, (symbol/frequency) needed to represent information. Any time anybody try to encode information based on the observability of the informatoin is not posible reduce the number of necesary bits by the traditional information theory demonstration.
+As we can see this information transoformation can reduce the number of bits, (symbol/frequency) needed to represent information. Any time anybody try to encode information based on the observability of the informatoin is not posible reduce the number of necesary bits by the traditional information theory demonstration, because when you win in some case a bits, in others you lose.
 
-Information is like the energy in the model of traditional information theory, the information base in the observability.
+Information is like the energy in the model of traditional information theory, the information based on the observability.
 
 As no way is know more than check all know funcions to define datasets from data bases like oeis.org or wolframalpha.com . Is not posible in a practice do this task in a efficient computation cost, finding the better functions to represent information in the computation time. By other part, the most of the data in the entropy of the reallity, the known functions are a really small percentage of the uncertain. This makes imposible base a system to encode data in functions ?
 
