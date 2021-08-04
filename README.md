@@ -129,7 +129,9 @@ d1 = f1 (c,b)
 
 d2 = f1 (d,c)
 
-### x = fnos (c,d,d1,d2) = round ( ( ( c * d1 ) - d ) + ( d * d2  ) )
+md = divisor (if is not modular == 1 )
+
+### x = fnos (c,d,d1,d2) = round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) mod md
 
 ### If x  == next out sequence, then :
 
@@ -156,5 +158,5 @@ d2 = f1 (d,c)
   - Sumatory / Rest (Arithmetic)
   - Product / Divisions (Geometric)
   - Polinomy x degree
+  - Modular (Modular Arithmetic) (Not implementet in probnet yet)
   
-
