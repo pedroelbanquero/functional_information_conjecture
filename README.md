@@ -142,7 +142,7 @@ d2 = f1 (d,c)
 
 - Encode saving number of executions of a function and 4 elements of dataset is the minimum information needed in geometric extrapolation with error prediction, to calculate pasts and futures n times.
 
-- The information theory based on the observability of the data and on the faithful reproduction of the same does not contemplate the information, geometric, polynomial or arithmetic where the time of each element of the dataset is constant 
+- The information theory based on the observability of the data and on the faithful reproduction of the data does not contemplate the information, geometric, polynomial or arithmetic where the time of each element of the dataset is constant. In this case the entropy of the data of the function is less thant the entropy of the dataset. 
 
 - Two kind of encoding types are posible :
 
