@@ -136,7 +136,7 @@ n = last $ last sequence
 
 ### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
 
-If true, then :
+### If true, then :
 
 ### ⋄ H (t, (a b c d) ) <  H (N) 
 
