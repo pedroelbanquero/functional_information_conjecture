@@ -118,7 +118,7 @@ is better than :
 
 ### Where :
 
-sequence = [a,b,c,d]
+sequence = [a,b,c,d,x,x1,x2,x3,x4,x5....]
 
 ### And:
 
@@ -134,9 +134,9 @@ m = last sequence
 
 n = last $ last sequence 
 
-### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
+### fnos x = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
 
-### If true, then :
+### If x  == next sequence, then :
 
 ### ⋄ H (t, (a b c d) ) <  H (N) 
 
