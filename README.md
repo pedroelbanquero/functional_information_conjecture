@@ -88,7 +88,7 @@ When we would to encode the function (f n =n+1) from the information of a datase
 
 When the time or space is geometric we can predict the result with 100 % accuracy, making posible encoding system based on the function information int the dataset.
 
-As V.Nos and E. Satntos demontrates with Probnet. Around 1/3 of the know functions from oeis.org database (the known functions) .
+As V.Nos and E. Santos demontrates with Probnet. Around 1/3 of the know functions from oeis.org database (the known functions) .
 
 The probability of solve just with a funcional encoding a dataset is 1 / 3, this means what around 1 / 3 of the known universe is perfectlly probnet, you can define the funcion with 3 fraction parameters, the starting point, and the numer of function time, or function space, defined by the math expresion function.
 
