@@ -134,7 +134,7 @@ md = divisor (if is not modular == 1 )
 r = radiant (arc longitude)
 
 
-### x = fnos (c,d,d1,d2) =  cos OR sin ( r  ( round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) (Div or Mod) md ) )
+### x = fnos (c,d,d1,d2) =  cos OR sin ( r  ( round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) (DivMod) md ) )
 
 ### If x  == next out sequence, then :
 
