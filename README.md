@@ -116,14 +116,15 @@ is better than :
 ```
 ## Conclusions
 
-Where :
+### Where :
 
 sequence = [a,b,c,d]
 
-And:
+### And:
 
 f1(x,y) =  (x) / y
 
+### Get
 
 d1 = f1 (c,b)
 
@@ -132,8 +133,6 @@ d2 = f1 (d,c)
 m = last sequence
 
 n = last $ last sequence 
-
-Next Out Sequence:
 
 ### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
 
