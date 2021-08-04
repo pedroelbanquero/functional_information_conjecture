@@ -2,7 +2,7 @@
 
 Information analisis from point of view of encodig data without lose with function who generates the data instead of precise representation of the reality in bits.
 
-As Kurt Gödel demonstrates many decades ago for different porpouses, information , or mathemathical expressions can be transformated as a unique numero who represents the information. Godel develops a method to describe a mathematical expresion (function) in a numer. Assuming this method is the first functional encoding method Godel is the father of functional encoding.
+As Kurt Gödel demonstrates many decades ago for different porpouses, information , or mathemathical expressions can be transformated as a unique nummber who represents the information. Godel develops a method to describe a mathematical expresion (function) in a number. Assuming this method is the first functional encoding method Godel is the father of functional encoding.
 
 ![image](https://user-images.githubusercontent.com/60758685/127950816-c8e399c9-a6b6-4f2b-a75e-10971622196b.png)
 
