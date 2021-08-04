@@ -9,7 +9,7 @@ As Kurt Gödel demonstrates many decades ago for different porpouses, informatio
 
 ## The information theory
 
-The traditional information theory assumes for encoding information is mandatory repesented as a minimal expresion of information, the Bit . Like any infomration as the theory demonstrates have a limitation to be represented in bits by  the frequency of the simbols and the order who composes a chunk of information, this theory is limited just to represent information with no loses exactly as you observe. The best way ro encode the information is always in a bits , chosing as a bit simbol 2^e where that is at least equal to the symbol numers. Another compresion techniques can improve the way to save data with no loses , like LZ + hufman encoding, defalte , br, etc ...
+The traditional information theory assumes for encoding information is mandatory repesented as a minimal expresion of information, the Bit . Like any infomration as the theory demonstrates have a limitation to be represented in bits by  the frequency of the simbols and the order who composes a chunk of information, this theory is limited just to represent information with no loses exactly as you observe. The best way ro encode the information is always in a bits , chosing as a bit simbol 2^e where that is at least equal to the symbol numers. Another compression techniques can improve the way to save data with no loses , like LZ + hufman encoding, defalte , br, etc ...
 
 ![image](https://user-images.githubusercontent.com/60758685/127951514-25b754dd-2a59-4cd0-b655-d23a56e96db5.png)
 
@@ -45,7 +45,6 @@ Artificial intelligence based on linear regresions aproximates results of funcio
 A model can be used in the AI network to apply the "learned" function.
 
 Any AI have two main properties.
-
 
 - Can generate information from input data source aplying the model (the function learned)
 - Can filter information from a input parsing the criteria who aomplish the model (the funcion learned)
