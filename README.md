@@ -134,7 +134,7 @@ m = last sequence
 
 n = last $ last sequence 
 
-### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) ) = x
+### x = fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
 
 ### If x  == next out sequence, then :
 
