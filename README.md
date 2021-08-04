@@ -71,7 +71,7 @@ In the sequence [1,2,3,4], we can observe we have:
   
 ### f n = n+1
 
-If the time space between each element of the data set is the same, we can assume f = n+1 function information is inside the dataset, just no way to extract the information is known more the know extrapolations methods.
+If the time space between each element of the data set is the same, we can assume f = n+1 function information is inside the dataset, just no way to extract the information is known more the know extrapolations methods. https://en.wikipedia.org/wiki/Extrapolation
 
 ### f 1 [1,2,3,4] = 5
 
@@ -79,7 +79,7 @@ If the time space between each element of the data set is the same, we can assum
 
 In 2021 was published in wikipedia and haskell official repositories and operating system NIX, the Probnet.
 
-Probnet description and code source can be found here. https://hackage.haskell.org/package/Probnet https://en.wikipedia.org/wiki/Extrapolation
+Probnet description and code source can be found here. https://hackage.haskell.org/package/Probnet
 
 
 ## The role of time in functional encoding
