@@ -129,11 +129,7 @@ d1 = f1 (c,b)
 
 d2 = f1 (d,c)
 
-m = d
-
-n = c 
-
-### x = fnos (n,m,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
+### x = fnos (c,d,d1,d2) = round ( ( ( c * d1 ) - d ) + ( d * d2  ) )
 
 ### If x  == next out sequence, then :
 
