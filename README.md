@@ -154,7 +154,7 @@ If true, then :
 
   - Encoding based on observable data.
   
-  - Encoding based on functions and time.
+  - Encoding based on functions and time, who generate the observable data set.
    
 
 ## 2D and 3D spaces
