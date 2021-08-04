@@ -149,5 +149,12 @@ d2 = f1 (d,c)
   - Encoding based on observable data.
   
   - Encoding based on functions and time, who generate the observable data set.
-   
+
+- Observable data in exponent consecutive sequences can be converted and encoded as a nos function when is defined by combitanions of:
+  
+  - Exponents (Exponential)
+  - Sumatory / Rest (Arithmetic)
+  - Product / Divisions (Geometric)
+  - Polinomy x degree
+  
 
