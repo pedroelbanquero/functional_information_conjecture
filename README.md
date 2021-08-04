@@ -131,7 +131,7 @@ d2 = f1 (d,c)
 
 md = divisor (if is not modular == 1 )
 
-### x = fnos (c,d,d1,d2) = round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) mod md
+### x = fnos (c,d,d1,d2) = round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) divMod md
 
 ### If x  == next out sequence, then :
 
