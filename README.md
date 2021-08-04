@@ -26,7 +26,7 @@ Gödel in his exercise to develop a system to represent mathematical expresions 
 
 Gödel specifically used this scheme at two levels: first, to encode sequences of symbols representing formulas, and second, to encode sequences of formulas representing proofs. This allowed him to show a correspondence between statements about natural numbers and statements about the provability of theorems about natural numbers, the key observation of the proof
 
-Another big genius , Christian Goldbach wrote a letter to Leonhard Euler as a result of GoldBach conjecture, discovering any pair number can be represented at least by 2 primes.
+Another big genius , Christian Goldbach wrote a letter to Leonhard Euler as a result of GoldBach conjecture, discovering any pair number can be represented at least by sum of 2 primes.
 
 Then any semiprime can be represated as a sum of 2 primes and the goldbach permutation order.
 
