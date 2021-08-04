@@ -137,7 +137,7 @@ Next Out Sequence:
 
 ### fnos (m,n,d1,d2) = round ( ( ( n * d1 ) - m ) + ( m * d2  ) )
 
-Then :
+If true, then :
 
 ### ⋄ H (t, (a b c d) ) <  H (N) 
 
