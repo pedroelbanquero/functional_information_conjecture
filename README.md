@@ -14,7 +14,7 @@ The traditional information theory assumes for encoding information is mandatory
 ![image](https://user-images.githubusercontent.com/60758685/127951514-25b754dd-2a59-4cd0-b655-d23a56e96db5.png)
 
 In the traditional information theory, the Entropy of the data defines the limits of the encoding .
-
+In traditional information theory, you encode the information as you observe.
 
 ## A functional point of view of the information
 
