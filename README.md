@@ -152,7 +152,7 @@ d2 = f1 (d,c)
 
 - Observable data in functional sequences can be converted and encoded as a NOS function when is defined by combitanions of:
   
-  - Exponents (Exponential)
+  - Exponents (Logarithmic)
   - Sumatory / Rest (Arithmetic)
   - Product / Divisions (Geometric)
   - Polinomy x degree
