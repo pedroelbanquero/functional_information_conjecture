@@ -255,7 +255,7 @@ probnet 1 [1,2,3,4]
 ## Data as a result of 2 probnet functions operations
 
 
-### probnet 12382 [1,3,9] - probnet 92821 [8,13,29]
+### ( probnet 12382 [1,3,9] - probnet 92821 [8,13,29] ) (operator) distance
 
 
 
