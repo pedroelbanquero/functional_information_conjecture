@@ -284,9 +284,9 @@ probnet 1 [1,2,3,4]
 
 ```
 
-encode (C.pack "sentense data")
+ns_encode (C.pack "sentense data")
 
-decode data
+ns_decode data
 
 ```
 
