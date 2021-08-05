@@ -296,10 +296,15 @@ probnet 1 [1,2,3,4]
 
 - The minimum functional representation of any information is the reprsentation as a funcion composet by time and 3 conseecutive parameters of the dataset.
 
-The minimum entropy to encode information is :
+- The minimum entropy to encode information is :
 
 ### H (probnet n+..)
 
+- Entropy is not a valid mesure to define how encodeable is the information. 
+
+- Any information can be represented as a function of :
+  - time
+  - 3 timspaces who contains the geometric / airthmetic information of the observable data
 
 ## Usage
 
