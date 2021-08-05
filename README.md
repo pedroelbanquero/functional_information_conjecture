@@ -258,6 +258,21 @@ probnet 1 [1,2,3,4]
 ## information = ( probnet l1 [a,b,c] - probnet l2 [f,g,h] ) (operator) distance
 
 
+## Algorithm
+
+- Search de low degree nearest Polinomy .
+
+- Turn x back n until near number the square of information.
+
+- Get the difference from the point to information
+
+- Use as the last point x less the calculated diference
+
+- Compute time of the information, until 1
+
+- encode loop times , last 3 points until 1
+
+- Do the same with the next information
 
 
 
