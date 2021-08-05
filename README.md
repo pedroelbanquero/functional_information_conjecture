@@ -188,6 +188,11 @@ Where a dataset is:
 
 We can encode merged funcional datasets as two symbols
 
+```
 A,100,1,2,3,4
+
 B,100,2,4,6,8
+
 100,A,B
+
+```
