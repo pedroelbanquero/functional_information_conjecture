@@ -239,6 +239,20 @@ probnet 1 [1,2,3,4]
 
 - Whe the encoding represents a function with part of information with engouth operators information to generate de information from the funcion by mathematical operations, can be extrapolated (Nos)
 
+## Data as a final point of a serie
+
+- If all numbers can be generated as a mathematical expresion. 
+
+- Any information can be represented as a number
+
+- Any number can be represented by the distance to a nos function , loops param1 param2 param3
+
+- When the distance of the information to a nearest probnet function the information can be encoded outside entrooy of shannon.
+
+### if (bit loops+bit p1+bit p2+bit p3) operator distance < (bit N) : H (fnos,op,distance) < H (N)
+
+   
+
 
 
 ## TO DO
