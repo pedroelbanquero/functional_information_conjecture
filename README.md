@@ -257,7 +257,7 @@ probnet 1 [1,2,3,4]
 
 ## information = ( probnet l1 [a,b,c] )
 
-## Algorithm
+## Back to the Future Algorithm
 
 ### Encode
 
