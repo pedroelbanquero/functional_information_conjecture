@@ -233,6 +233,15 @@ probnet 1 [1,2,3,4]
 
 ```
 
+## TO DO
+
+- Better way to parse real data
+
+- Data = fnos n (operator) fnos n2
+
+- If total data is the endpoint of a serie, wich serie is
+
+
 
 
 All rights are reserved. Any use of this documentation for commercial porpouses is forbidden. Pleas contact with vnos@blackhole.consulting
