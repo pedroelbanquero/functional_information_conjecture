@@ -233,6 +233,14 @@ probnet 1 [1,2,3,4]
 
 ```
 
+## Classes of functional encoding
+
+- When the encoding represents a function with his operators (Godel Encoding)
+
+- Whe the encoding represents a function with part of information with engouth operators information to generate de information from the funcion by mathematical operations, can be extrapolated (Nos)
+
+
+
 ## TO DO
 
 - Better way to parse real data
