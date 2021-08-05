@@ -303,8 +303,8 @@ probnet 1 [1,2,3,4]
 - Entropy is not a valid mesure to define how encodeable is the information. 
 
 - Any information can be represented as a function of :
-  - time
-  - 3 timspaces who contains the geometric / airthmetic information of the observable data
+  - times
+  - 3 time/space , past, present and future
 
 ## Usage
 
