@@ -252,16 +252,12 @@ probnet 1 [1,2,3,4]
 ### if (bit loops+bit p1+bit p2+bit p3) operator distance < (bit N) : H (fnos,op,distance) < H (N)
 
    
+## Data as a result of 2 probnet functions operations
 
 
+### probnet 12382 [1,3,9] - probnet 92821 [8,13,29]
 
-## TO DO
 
-- Better way to parse real data
-
-- Data = fnos n (operator) fnos n2
-
-- If total data is the endpoint of a serie, wich serie is
 
 
 
