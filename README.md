@@ -307,6 +307,8 @@ probnet 1 [1,2,3,4]
 
   ## Functional Information = fns times past present future
   
+- As the number field, informations is made by unique "symbols" who expands them in N consecutivie replies in the time expansion over complex plane.
+
   
   
 ## Usage
