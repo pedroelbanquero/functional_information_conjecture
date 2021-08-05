@@ -235,4 +235,7 @@ probnet 1 [1,2,3,4]
 
 
 
+All rights are reserved. Any use of this documentation for commercial porpouses is forbidden. Pleas contact with vnos@blackhole.consulting
+
+
 
