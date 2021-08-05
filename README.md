@@ -280,6 +280,16 @@ probnet 1 [1,2,3,4]
 
 - Parse each element as a probnet inputs.
 
+## Usage
+
+```
+
+encode (C.pack "sentense data")
+
+decode data
+
+```
+
 
 ## Computacion Costs
 
