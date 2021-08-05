@@ -298,6 +298,7 @@ ns_decode data
 ## Authors
 
 V.Nos
+
 E.Santos
 
 All rights are reserved. Any use of this documentation for commercial porpouses is forbidden. Pleas contact with vnos@blackhole.consulting
