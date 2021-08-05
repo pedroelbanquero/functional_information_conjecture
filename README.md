@@ -280,6 +280,22 @@ probnet 1 [1,2,3,4]
 
 - Parse each element as a probnet inputs.
 
+## Conclusion
+
+- Any information can be represented as a polinomy, any polinomy is a function that can be taken to the past .
+
+When the numer of times to arrive to the first past 1 of any posible serie in the infinite solutions is less than the information, then the information can be encoded with encoding benefits than traditional information theory ways.
+
+When extract the information of the funcion of a polinomy is posible, the geometric regresion to the past will be probnet calculable. In consecuence the first expresion of the function with the first information posible to generate the funcion will have less entropy than the original information, in traditional information point of view.
+
+For each type of function who can extract the information about the funcion from observable will be have a funcional encoding method
+
+As more functioncs can solve the generator function , better performance is posible to obtain depending .
+
+The information have a functional estructure, when you observe as a the function who generates the observable information
+
+
+
 ## Usage
 
 ```
