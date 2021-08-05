@@ -257,7 +257,7 @@ probnet 1 [1,2,3,4]
 
 ## information = ( probnet l1 [a,b,c] )
 
-## Back to the Future Algorithm
+## Back to the Future Algorithm, geometric time regression
 
 ### Encode
 
