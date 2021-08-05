@@ -255,8 +255,7 @@ probnet 1 [1,2,3,4]
 ## Data as a result of 2 probnet functions operations
 
 
-## information = ( probnet l1 [a,b,c] - probnet l2 [f,g,h] )
-
+## information = ( probnet l1 [a,b,c] )
 
 ## Algorithm
 
