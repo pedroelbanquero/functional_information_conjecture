@@ -306,7 +306,7 @@ probnet 1 [1,2,3,4]
   - times
   - 3 time/space , past, present and future
 
-  ## Information = fns times past present future
+  ## Functional Information = fns times past present future
   
   
   
