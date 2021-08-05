@@ -207,7 +207,31 @@ Process each 1 dimision vector with probnet
 
 Join in a viceversa process the data to the original state.
 
+```
 
+[(1,2),(2,2),(3,3),(4,4)]
+
+-- convert  to 
+
+[[1,2,3,4],[1,2,3,4]]
+
+-- predict next of each one
+
+probnet 1 [1,2,3,4]
+
+5
+
+probnet 1 [1,2,3,4]
+
+5
+
+-- add to the result
+
+[(1,2),(2,2),(3,3),(4,4),(5,5)]
+
+
+
+```
 
 
 
