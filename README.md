@@ -186,13 +186,29 @@ Where a dataset is:
 
 ```
 
-We can encode merged funcional datasets as two symbols
+We can encode merged funcional datasets as two function symbols
 
 ```
+
 A,100,1,2,3,4
 
 B,100,2,4,6,8
 
 100,A,B
 
+
 ```
+
+## Functional encoding and dimensions, vector processing
+
+With a n dimensions vector , extract n element to grup them by order
+
+Process each 1 dimision vector with probnet
+
+Join in a viceversa process the data to the original state.
+
+
+
+
+
+
