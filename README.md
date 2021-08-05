@@ -260,6 +260,8 @@ probnet 1 [1,2,3,4]
 
 ## Algorithm
 
+### Encode
+
 - Search de low degree nearest Polinomy .
 
 - Turn x back n until near number the square of information.
@@ -274,6 +276,14 @@ probnet 1 [1,2,3,4]
 
 - Do the same with the next information
 
+### Decode
+
+- Parse each element as a probnet inputs.
+
+
+## Computacion Costs
+
+...
 
 
 
