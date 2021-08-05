@@ -309,7 +309,7 @@ probnet 1 [1,2,3,4]
   
 - As the number field, informations is made by unique "symbols" who expands them in N consecutivie replies in the time expansion over complex plane.
 
-- Any number can be encoded in a time space function , 1 parameter ofr the time and 3 parameters for the "space", past, present, future
+- Any number can be encoded in a time space function , 1 parameter for time and 3 parameters for the "space", past, present, future
 
   
 ## Usage
