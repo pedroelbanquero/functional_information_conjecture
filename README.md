@@ -259,6 +259,10 @@ probnet 1 [1,2,3,4]
 
 ## Geometric mnemonic time regression, Back to the Future Algorithm
 
+![image](https://user-images.githubusercontent.com/60758685/128615325-64e8a4ea-6d77-46a1-ac98-0bbb11f4437e.png)
+
+
+
 ### Encode
 
 - Search de low degree nearest Polinomy .
