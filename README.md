@@ -261,6 +261,9 @@ probnet 1 [1,2,3,4]
 
 ![image](https://user-images.githubusercontent.com/60758685/128615325-64e8a4ea-6d77-46a1-ac98-0bbb11f4437e.png)
 
+![image](https://user-images.githubusercontent.com/60758685/128616881-c54f1a6c-e1a8-4461-8c02-2863b133696b.png)
+
+![image](https://user-images.githubusercontent.com/60758685/128616892-3126330a-b2b1-4fa3-a046-0c0251faf934.png)
 
 
 ### Encode
