@@ -134,7 +134,15 @@ md = divisor (if is not modular == 1 )
 r = radiant (arc longitude)
 
 
+## Time Space
+
 ### x = fnos (c,d,d1,d2) =  cos OR sin ( r  ( round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) (DivMod) md ) )
+
+## BFE, Bestia Funcional Encoder
+
+### n = (2|3)^e + (2|3)^d + x * 6 + [0..6]
+
+
 
 ### If x  == next out sequence, then :
 
