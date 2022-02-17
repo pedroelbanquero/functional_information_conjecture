@@ -156,7 +156,7 @@ md = divisor (if is not modular == 1 )
 r = radiant (arc longitude)
 
 
-## Time Space
+## Managing curves (not implemented yet)
 
 ### x = fnos (c,d,d1,d2) =  cos OR sin ( r  ( round ( ( ( c * d1 ) - d ) + ( d * d2  ) ) (DivMod) md ) )
 
