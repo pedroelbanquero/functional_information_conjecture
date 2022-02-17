@@ -93,9 +93,35 @@ In the sequence [1,2,3,4], we can observe we have:
   
 ### f n = n+1
 
-If the time space between each element of the data set is the same, we can assume f = n+1 function information is inside the dataset, just no way to extract the information is known more the know extrapolations methods. https://en.wikipedia.org/wiki/Extrapolation
+If the time space between each element of the data set is the same, we can assume f = n+1 function information is inside the dataset, just no way to extract the information is known more the known extrapolations methods. https://en.wikipedia.org/wiki/Extrapolation
 
 ### f 1 [1,2,3,4] = 5
+
+We need to consider the minium probabilities in the information, depending the minium ways to encode information, value and frecuency
+
+- frequency, the information is encoded on the change of space among values cycles, 32 can be represented on 32 cicles of value change with any pattern 
+
+- value, information is encodes as a numerical value
+
+To follow the sense of the project each kind of pattern is a determinestic geometrical / airthmetic pattern but representing each kind of information ecodable
+ 
+- the system just increase, no frequency, just differences among values contain information phenotype
+
+  EX . [1,2,3,4,5,6 ...]
+
+- the system just decrease, no frecuency, just differences among values contain information phenotype
+ 
+  EX - [6,5,4,3,2,1]
+  
+- the system combines both, have cycles , frequency plus values, the system can change or not the behaviour combining frequencies and values
+
+  EX [1,2,3,4,1,2,3,4]
+  
+- the structure modifies their spacing phenotype information, is where the real invention happends 
+
+  EX [1,2,3,4,5,1,2,3,4,5,6,1,2,3,4,5,6,7]
+
+- the system 
 
 ## A real way to encode functions 
 
