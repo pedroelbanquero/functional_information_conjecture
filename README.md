@@ -295,7 +295,7 @@ probnet 1 [1,2,3,4]
 
 ## Geometric mnemonic time regression, Back to the Future Algorithm
 
-If a data is the final point of a sequence , a finite number of sequences will contain the information . If we can go to the past of a big number we can represent the information with the past and the moment of the future where the data will be de observable information .
+If a data is the final point of a sequence , a finite number of sequences will contain the information . If we can go to the past of a big number we can represent the information with the past and the moment of the future where the data will be the observable information .
 
 We can design time regresions for the data with the proper function expresion .
 
