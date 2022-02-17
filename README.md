@@ -73,7 +73,7 @@ Artificial intelligence methods can't be used to encode data because the output 
 
   - Should have a processs to generate new functions .
  
-  
+  - Should have a process to solve by cracking with probability order
 
 ## How should be a functional encoding method
 
