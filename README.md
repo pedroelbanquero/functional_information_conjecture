@@ -269,6 +269,7 @@ probnet 1 [1,2,3,4]
 
 - Whe the encoding represents a function with part of information with engouth operators information to generate de information from the funcion by mathematical operations, can be extrapolated (Nos)
 
+
 ## Data as a final point of a sequence
 
 - If all numbers can be generated as a mathematical expresion. 
