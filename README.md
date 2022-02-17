@@ -117,11 +117,11 @@ To follow the sense of the project each kind of pattern is a determinestic geome
 
   EX [1,2,3,4,1,2,3,4]
   
-- the structure modifies their spacing phenotype information, is where the real invention happends 
+- the system modifies their spacing phenotype information, is where the real invention happends 
 
   EX [1,2,3,4,5,1,2,3,4,5,6,1,2,3,4,5,6,7]
 
-- the system 
+ 
 
 ## A real way to encode functions 
 
