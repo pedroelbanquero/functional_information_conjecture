@@ -63,7 +63,7 @@ Artificial intelligence methods can't be used to encode data because the output 
   
   - Should make a hipotesys, guess something to take a decision (Prediction )
   
-  - Should take decision based on hypotesys and incentivation method
+  - Should take decision based on hypotesys and incentivation method (Propositional Logics)
 
   - Should have a process to convert observable data on ideas (functional information, functios who generate the observable data)
   
@@ -162,8 +162,13 @@ r = radiant (arc longitude)
 
 ## BFE, Bestia Funcional Encoder
 
+A example to extrapolate information to a 6 polinomy
+
 ### n = (2|3)^e + (2|3)^d + x * 6 + [0..6]
 
+In this example of encoding when the machine can encode with functions of 2 or 3 bases, all information near any polynomy allways will be encoded better in a functional way down the entropy of shannon limits .
+
+Maybe if inteligen system cam choose the bes codification for each kind of pattern we can encode the information as a layers of functional information and not as the obersver view the information. Generating again the observable information from the function .
 
 
 ### If x  == next out sequence, then :
