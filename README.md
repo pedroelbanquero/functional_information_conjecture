@@ -373,15 +373,33 @@ We can test with the examples of the book, sequence of Lucas and Fibo , and we c
 
 - Entropy is not a valid mesure to define how encodeable is the information. 
 
-- Any information can be represented as a function of :
+- Many information can be represented as a function of :
+  
   - times
   - 3 time/space , past, present and future
 
+- Simple information just can be represented as a value and order in a data sequence . A symbol in functional information can change the value depending the order in a encoded data if information is functional.
+ 
   ## Functional Information = fns times past present future
   
 - As the number field, informations is made by unique "symbols" who expands them in N consecutivie replies in the time expansion over complex plane.
 
+## Furure of functional information
+
+- Functional encoder
+
+  - Information as a final point of dataset
   
+  - Information as best polinomy
+
+  - New proposals are welcome
+
+- probnet auto recursive layers dependind of longitude of dataset
+
+- probnet models
+
+- probnet parser
+
 ## Usage
 
 ```
