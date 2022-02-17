@@ -290,8 +290,11 @@ probnet 1 [1,2,3,4]
    
 ## Data as a result of 2 probnet functions operations
 
+(TODO)
+SYMBOLS WHO REPRESENTS intercalate pattern
+probnet functions
 
-## information = ( probnet l1 [a,b,c] )
+### information = ( probnet l1 [a,b,c] & probnet l1 [a,b,c])
 
 ## Geometric mnemonic time regression, Back to the Future Algorithm
 
