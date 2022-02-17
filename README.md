@@ -268,7 +268,7 @@ probnet 1 [1,2,3,4]
 
 ```
 
-## Classes of functional encoding
+## Types of functional encoding
 
 - When the encoding represents a function with his operators (Godel Encoding)
 
