@@ -38,7 +38,7 @@ Information is like the energy in the model of traditional information theory, t
 
 As no way is know more than check all know funcions to define datasets from data bases like oeis.org or wolframalpha.com . Is not posible in a practice do this task in a efficient computation cost, finding the better functions to represent information in the computation time. By other part, the most of the data in the entropy of the reallity, the known functions are a really small percentage of the uncertain. This makes imposible base a system to encode data in functions ?
 
-## Artificial intelligence
+## Artificial intelligence (based on inferences linear regresions)
 
 Artificial intelligence based on linear regresions aproximates results of funciontions generating functions from models.
 
@@ -47,11 +47,33 @@ A model can be used in the AI network to apply the "learned" function.
 Any AI have two main properties.
 
 - Can generate information from input data source aplying the model (the function learned)
-- Can filter information from a input parsing the criteria who aomplish the model (the funcion learned)
+- Can filter information from a input parsing the criteria who acomplish the model (the funcion learned)
 
 For now all known "AI" methods are based in train models to aproximate the functions who composees a information dataset.
 
 Artificial intelligence methods can't be used to encode data because the output of the data is not accurated to the reallity. This make imposible use for encodin with no information loses .
+
+## Real artificial intelligence
+
+  - Needs at least to sensors to check the same information idea bye himself . The I concept
+
+  An intelligence can't be autonomous intelligence without the concept of I .
+
+  - Should be incentivated to allow intelligence to take his own decisions, by the intelligence wants
+  
+  - Should make a hipotesys, guess something to take a decision (Prediction )
+  
+  - Should take decision based on hypotesys and incentivation method
+
+  - Should have a process to convert observable data on ideas (functional information, functios who generate the observable data)
+  
+  - Should have a process to recognize patterns (means)
+
+  - Should have a process who permute ideas , patterns , hypotesys to generate new ideas and aptterns on a infinite loop
+
+  - Should have a processs to generate new functions .
+ 
+  
 
 ## How should be a functional encoding method
 
