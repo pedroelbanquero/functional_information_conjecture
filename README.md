@@ -295,6 +295,10 @@ probnet 1 [1,2,3,4]
 
 ## Geometric mnemonic time regression, Back to the Future Algorithm
 
+If a data is the final point of a sequence , a finite number of sequences will contain the information . If we can go to the past of a big number we can represent the information with the past and the moment of the future where the data will be de observable information .
+
+We can design time regresions for the data with the proper function expresion .
+
 ![image](https://user-images.githubusercontent.com/60758685/128615325-64e8a4ea-6d77-46a1-ac98-0bbb11f4437e.png)
 
 ![image](https://user-images.githubusercontent.com/60758685/128616881-c54f1a6c-e1a8-4461-8c02-2863b133696b.png)
@@ -321,6 +325,31 @@ probnet 1 [1,2,3,4]
 ### Decode
 
 - Parse each element as a probnet inputs.
+
+## Genotype and Phenotype 
+
+As in the book of Douglas Hofstadter,  "Gödel, Escher, Bach: an Eternal Golden Braid", an intelligent system needs to know how to extract the information in a dataset of information .
+
+He makes a clasification in genotypes and phenotypes, basiclly means the information ant the anti information, a way to extract the real information from a sentence, this was the main objetive of probnet to develop it .
+
+![image](https://user-images.githubusercontent.com/60758685/154401397-2a533448-8303-4429-89cc-9c38b8165800.png)
+
+We can test with the examples of the book, sequence of Lucas and Fibo , and we can observe how the same algorith can solve both functions, this means :
+
+- Many functions can solve the same problem
+
+- A funcion can be static with the same recursion logic , and solve diferent problems
+
+- A layers of error correction can be implemented by each new value in the sentence, making the funcion recursive an correcting the error paterns .
+
+- Geometric and arithmetic extrapolation with error prediction is a good way to extract information genotypes from phenotypes without change the algorith for each dataset .
+
+- Prediction of datasets is essential to make hypotesys in a intelligence in a realistic way , skipping the uncertain or the big costs of compare all known functions each time in a algorithm .
+
+- Reward to the intelligence is the way to program it .
+
+- Propositional logics is the way to process the information, make hypotesis and take a decision in a real intelligent system
+
 
 ## Conclusion
 
