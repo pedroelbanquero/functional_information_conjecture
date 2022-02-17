@@ -299,11 +299,22 @@ If a data is the final point of a sequence , a finite number of sequences will c
 
 We can design time regresions for the data with the proper function expresion .
 
-![image](https://user-images.githubusercontent.com/60758685/128615325-64e8a4ea-6d77-46a1-ac98-0bbb11f4437e.png)
+For the dataset :
 
-![image](https://user-images.githubusercontent.com/60758685/128616881-c54f1a6c-e1a8-4461-8c02-2863b133696b.png)
+`-129238662254624299718257803126995823967379264584174399322978637942376386809004301588333214075951003131734392974778911369041075095476977303231628591497216`
 
-![image](https://user-images.githubusercontent.com/60758685/128616892-3126330a-b2b1-4fa3-a046-0c0251faf934.png)
+
+`
+ghci> take 1 $ reverse $ probnet 100 [1,20,200,500] 
+
+[-129238662254624299718257803126995823967379264584174399322978637942376386809004301588333214075951003131734392974778911369041075095476977303231628591497216]
+
+`
+
+### We can encode in functional way as :
+
+
+`100,1,20,200,500`
 
 
 ### Encode
