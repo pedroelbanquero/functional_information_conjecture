@@ -323,6 +323,8 @@ For example imagine a number who find the factor at step in the loop less than t
 
 ### if (bit loops+bit p1+bit p2+bit p3) operator distance < (bit N) : H (fnos,op,distance) < H (N)
 
+Solving cubic polynomies we can get the better roots of the polinomy to encode with the proper function.
+
    
 ## Data as a result of 2 probnet functions operations
 
@@ -358,23 +360,20 @@ ghci> take 1 $ reverse $ probnet 100 [1,20,200,500]
 
 ### Encode
 
-- Search de low degree nearest Polinomy .
+- Search de low degree better Polinomy and roots with Laguerre method.
 
-- Turn x back n until near number the square of information.
+- Calculate the smallest beggining of the data sequences turning N near 0 
 
-- Get the difference from the point to information
+- Save first 4 parameters of the beggining sequence
 
-- Use as the last point x less the calculated diference
+- Save the moment in the sequence of N
 
-- Compute time of the information, until 1
-
-- encode loop times , last 3 points until 1
-
-- Do the same with the next information
+- Encode the moment and 4 initial parametrs of the data sequence
 
 ### Decode
 
-- Parse each element as a probnet inputs.
+- Parse each element as a probnet inputs and get the last element .
+
 
 ## Genotype and Phenotype 
 
