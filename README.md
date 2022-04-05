@@ -298,7 +298,13 @@ A example to extrapolate information to a 6 polinomy
 
 In this example of encoding when the machine can encode with functions of 2 or 3 bases, all information near any polynomy allways will be encoded better in a functional way down the entropy of shannon limits .
 
-Maybe if inteligen system cam choose the bes codification for each kind of pattern we can encode the information as a layers of functional information and not as the obersver view the information. Generating again the observable information from the function .
+Maybe if inteligent system cam choose the best codification for each kind of pattern we can encode the information as a layers of functional information and not as the obersver view the information. Generating again the observable information from the function .
+
+## Data as a product of polinomies
+
+As all numbers can be composed by product of primes and p ^ 2 mod 6 = 1
+
+We can encode any information as a roots of 6 polinomies, first factoring the information data , and converting prime factors to polinomies .
 
 
 ## Data as a final point of a sequence
