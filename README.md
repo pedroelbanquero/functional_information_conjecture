@@ -302,10 +302,18 @@ Maybe if inteligent system cam choose the best codification for each kind of pat
 
 ## Data as a product of polinomies
 
+
+- Prime squares mod 6
+
 As all numbers can be composed by product of primes and p ^ 2 mod 6 = 1
 
 We can encode any information as a roots of 6 polinomies, first factoring the information data , and converting prime factors to polinomies .
 
+- ECC
+
+Another way is to encode the primes as eliptic curve function points who factorize the information .
+
+Product of n curves can encode any data.
 
 ## Data as a final point of a sequence
 
