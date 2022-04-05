@@ -300,20 +300,16 @@ In this example of encoding when the machine can encode with functions of 2 or 3
 
 Maybe if inteligent system cam choose the best codification for each kind of pattern we can encode the information as a layers of functional information and not as the obersver view the information. Generating again the observable information from the function .
 
-## Data as a product of polinomies
+## Data as a product of polinomies function indexed
 
+Any number can be composed by product of primers, any product of primes can be factorized with eliptic curve method . The index in the curve can represent a bigger integer number in each curve function .
 
-- Prime squares mod 6
-
-As all numbers can be composed by product of primes and p ^ 2 mod 6 = 1
-
-We can encode any information as a roots of 6 polinomies, first factoring the information data , and converting prime factors to polinomies .
-
-- ECC
-
-Another way is to encode the primes as eliptic curve function points who factorize the information .
+If we can index the moment of the curve instead of the information point this always will be minor than n
 
 Product of n curves can encode any data.
+
+For example imagine a number who find the factor at step in the loop less than the factor, allways you can find a curve better than prime indexing .
+
 
 ## Data as a final point of a sequence
 
