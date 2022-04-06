@@ -325,7 +325,20 @@ For example imagine a number who find the factor at step in the loop less than t
 
 Solving cubic polynomies we can get the better roots of the polinomy to encode with the proper function.
 
-   
+Assume that our conditions are:
+
+### f(0)=0,  f(1)=b,  f′(0)=p,  f′(1)=q
+
+and that we use a cubic polynomial f(x)=a3x3+a2x2+a1x+a0. Solving this system of equations yields:
+
+### f(x)=(p+q−2b)x3+(3b−2p−q)x2+px
+
+For example, if our first point is (0,0)
+
+with a gradient of p=3 and our second point is (1,4) with a gradient of q=−2, then our curve is:
+
+### f(x)=−7x3+8x2+3x
+
 ## Data as a result of 2 probnet functions operations
 
 (TODO)
