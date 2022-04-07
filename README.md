@@ -300,16 +300,6 @@ In this example of encoding when the machine can encode with functions of 2 or 3
 
 Maybe if inteligent system cam choose the best codification for each kind of pattern we can encode the information as a layers of functional information and not as the obersver view the information. Generating again the observable information from the function .
 
-## Data as a product of polinomies function indexed
-
-Any number can be composed by product of primers, any product of primes can be factorized with eliptic curve method . The index in the curve can represent a bigger integer number in each curve function .
-
-If we can index the moment of the curve instead of the information point this always will be minor than n
-
-Product of n curves can encode any data.
-
-For example imagine a number who find the factor at step in the loop less than the factor, allways you can find a curve better than prime indexing .
-
 
 ## Data as a final point of a sequence
 
@@ -321,23 +311,31 @@ For example imagine a number who find the factor at step in the loop less than t
 
 - When the distance of the information to a nearest probnet function the information can be encoded outside entrooy of shannon.
 
+
 ### if (bit loops+bit p1+bit p2+bit p3) operator distance < (bit N) : H (fnos,op,distance) < H (N)
+
 
 Solving cubic polynomies we can get the better roots of the polinomy to encode with the proper function.
 
 Assume that our conditions are:
 
+
 ### f(0)=0,  f(1)=b,  f′(0)=p,  f′(1)=q
+
 
 and that we use a cubic polynomial f(x)=a3x3+a2x2+a1x+a0. Solving this system of equations yields:
 
+
 ### f(x)=(p+q−2b)x3+(3b−2p−q)x2+px
+
 
 For example, if our first point is (0,0)
 
 with a gradient of p=3 and our second point is (1,4) with a gradient of q=−2, then our curve is:
 
+
 ### f(x)=−7x3+8x2+3x
+
 
 ## Data as a result of 2 probnet functions operations
 
