@@ -18,7 +18,7 @@ In traditional information theory, you encode the information as you observe.
 
 ## A functional point of view of the information
 
-In a functional information conjecture the information is not the result of a event who generates the information. We can consider from a functional point of view than the information is the function who generates the data and not viceversa.
+In a functional information conjecture the information is the result of a function who generates the information. The information is the function who generates the data and not viceversa.
 
 Of course in a observable information is easy observe and save the information as the same way you observe, but in a a point of view of a funciontal encoding we have the challange to know the function, or group of functions who composes a dataset of information.
 
@@ -329,19 +329,13 @@ and that we use a cubic polynomial f(x)=a3x3+a2x2+a1x+a0. Solving this system of
 ### f(x)=(p+q−2b)x3+(3b−2p−q)x2+px
 
 
-For example, if our first point is (0,0)
-
-with a gradient of p=3 and our second point is (1,4) with a gradient of q=−2, then our curve is:
+For example, if our first point is (0,0) with a gradient of p=3 and our second point is (1,4) with a gradient of q=−2, then our curve is:
 
 
 ### f(x)=−7x3+8x2+3x
 
 
 ## Data as a result of 2 probnet functions operations
-
-(TODO)
-SYMBOLS WHO REPRESENTS intercalate pattern
-probnet functions
 
 ### information = ( probnet l1 [a,b,c] & probnet l1 [a,b,c])
 
@@ -413,37 +407,18 @@ We can test with the examples of the book, sequence of Lucas and Fibo , and we c
 
 ## Conclusion
 
-- Any information can be represented as a polinomy, any polinomy is a function that can be taken to the past .
+- Any information can be represented as a final point of a data sequence with a function or group of functions
 
-- When the numer of times to arrive to the first past 1 of any posible serie in the infinite solutions is less than the information, then the information can be encoded with encoding benefits than traditional information theory ways.
-
-- When extract the information of the funcion of a polinomy is posible, the geometric regresion to the past will be probnet calculable. In consecuence the first expresion of the function with the first information posible to generate the funcion will have less entropy than the original information, in traditional information point of view.
-
-- For each type of function who can extract the information about the funcion from observable will be have a funcional encoding method
-
-- As more functioncs can solve the generator function , better performance is posible to obtain depending .
-
-- The information have a functional estructure, when you observe as a the function who generates the observable information
-
-- The minimum functional representation of any information is the reprsentation as a funcion composet by time and 3 conseecutive parameters of the dataset.
-
-- The minimum entropy to encode information is :
+- Exponential funtions are the better choose for functional encoding 
 
 ### H (probnet n+..)
 
 - Entropy is not a valid mesure to define how encodeable is the information. 
 
-- Many information can be represented as a function of :
-  
-  - times
-  - 3 time/space , past, present and future
+- Any information can be represented as a function of cubic polynomy 
 
 - Simple information just can be represented as a value and order in a data sequence . A symbol in functional information can change the value depending the order in a encoded data if information is functional.
  
-  ## Functional Information = fns times past present future
-  
-- As the number field, informations is made by unique "symbols" who expands them in N consecutivie replies in the time expansion over complex plane.
-
 ## Furure of functional information
 
 - Functional encoder
